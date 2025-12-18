@@ -66,6 +66,7 @@ Model performance and training time are compared across:
 
 ---
 
+## checkout the file [google collab](https://colab.research.google.com/drive/1knE1ER2U7qoryOXkc0moVPHpJ_pQgUpN?usp=sharing)
 ## 🚀 How to Run
 ```bash
 pip install torch torchvision matplotlib tqdm
